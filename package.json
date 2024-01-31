@@ -1,0 +1,28 @@
+{
+  "name": "story-writing-website",
+  "version": "1.0.0",
+  "description": "story telling website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "subhash",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/su690/Story-writing.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "bugs": {
+    "url": "https://github.com/su690/Story-writing/issues"
+  },
+  "homepage": "https://github.com/su690/Story-writing#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
+}
